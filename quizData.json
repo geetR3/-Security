@@ -1,0 +1,272 @@
+[
+  {
+    "question": "What are the most common types of sabotage devices used against aircraft?",
+    "options": [
+      "a. Incendiary devices",
+      "b. Explosive devices",
+      "c. Both explosive and incendiary devices",
+      "d. Chemical weapons"
+    ],
+    "answer": "c. Both explosive and incendiary devices"
+  },
+  {
+    "question": "What are the common methods used by saboteurs to place devices on aircraft?",
+    "options": [
+      "a. Infiltrating a device into baggage",
+      "b. Colluding with airport or airline staff",
+      "c. Using an unsuspecting dupe",
+      "d. All of the above"
+    ],
+    "answer": "d. All of the above"
+  },
+  {
+    "question": "Which of the following is NOT a critical area of an airport vital for its continued operation?",
+    "options": [
+      "a. Runway",
+      "b. Passenger terminal buildings",
+      "c. Navigational aids",
+      "d. Airport gift shops"
+    ],
+    "answer": "d. Airport gift shops"
+  },
+  {
+    "question": "What was the outcome of the August 2006 Heathrow Airport Attack?",
+    "options": [
+      "a. Restrictions on the carriage of more than 100ml of liquid in cabin baggage",
+      "b. The formation of the BCAS",
+      "c. The introduction of sky marshals",
+      "d. The implementation of bomb threat contingency plans"
+    ],
+    "answer": "a. Restrictions on the carriage of more than 100ml of liquid in cabin baggage"
+  },
+  {
+    "question": "What was the outcome of the 2016 Brussels Airport attack?",
+    "options": [
+      "a. Landside security became a standard",
+      "b. The insider threat was taken seriously",
+      "c. The use of a dummy check was introduced",
+      "d. Cockpit doors were strengthened"
+    ],
+    "answer": "b. The insider threat was taken seriously"
+  },
+  {
+    "question": "What was the outcome of the 2016 Atatürk Airport attack?",
+    "options": [
+      "a. Landside security became a standard",
+      "b. The insider threat was taken seriously",
+      "c. The use of a dummy check was introduced",
+      "d. Cockpit doors were strengthened"
+    ],
+    "answer": "a. Landside security became a standard"
+  },
+  {
+    "question": "Following the Kanishka Tragedy in 1985, which committee was set up, and what was its outcome?",
+    "options": [
+      "a. Shri B.D. Pandey committee; DCAS was formed",
+      "b. Ramamitran committee; Dummy Checks were introduced",
+      "c. Justice B.N. Kirpal Commission; BCAS was formed as a regulatory authority",
+      "d. None of the above"
+    ],
+    "answer": "c. Justice B.N. Kirpal Commission; BCAS was formed as a regulatory authority"
+  },
+  {
+    "question": "What security measures were introduced after the Kanishka Tragedy?",
+    "options": [
+      "a. Mandatory identification of baggage",
+      "b. Reconciliation of baggage",
+      "c. Manual checking of baggage even after X-ray screening",
+      "d. All of the above"
+    ],
+    "answer": "d. All of the above"
+  },
+  {
+    "question": "How was Anne Murphy caught in the attempted sabotage of El Al Israeli Airlines flight 016?",
+    "options": [
+      "a. A security camera recording",
+      "b. Baggage reconciliation",
+      "c. Profiling",
+      "d. A sniffer dog"
+    ],
+    "answer": "c. Profiling"
+  },
+  {
+    "question": "Which incident led to the golden principle 'No passenger no baggage and all bomb threat calls to be taken seriously'?",
+    "options": [
+      "a. Pan Am 103 incident",
+      "b. Air India Kanishka Tragedy",
+      "c. TWA 840 Bombing",
+      "d. Air France hijacking"
+    ],
+    "answer": "a. Pan Am 103 incident"
+  },
+  {
+    "question": "What was the outcome of the 1999 hijacking of Indian Airlines flight IC-814?",
+    "options": [
+      "a. Strengthening of cockpit doors",
+      "b. Introduction of CISF as ASG",
+      "c. Formation of BCAS",
+      "d. Ban on liquid carriage"
+    ],
+    "answer": "b. Introduction of CISF as ASG"
+  },
+  {
+    "question": "What was the outcome of the September 11, 2001 attacks?",
+    "options": [
+      "a. Strengthening and locking of cockpit doors",
+      "b. Implementation of strict pre-embarkation security checks",
+      "c. Deployment of sky marshals worldwide",
+      "d. All of the above"
+    ],
+    "answer": "d. All of the above"
+  },
+  {
+    "question": "The Richard Reid incident (Shoe Bomber) led to the introduction of what?",
+    "options": [
+      "a. Shoe scanning through XBIS",
+      "b. Ban on lighters and matchboxes in the aircraft",
+      "c. Both A and B",
+      "d. None of the above"
+    ],
+    "answer": "c. Both A and B"
+  },
+  {
+    "question": "What are the primary types of sabotage devices used against aircraft?",
+    "options": [
+      "a. Incendiary and mechanical devices",
+      "b. Chemical and biological agents",
+      "c. Explosive and incendiary devices",
+      "d. Electronic and magnetic devices"
+    ],
+    "answer": "c. Explosive and incendiary devices"
+  },
+  {
+    "question": "What are some common methods used by saboteurs to infiltrate devices onto aircraft?",
+    "options": [
+      "a. Only through air cargo",
+      "b. Infiltration into baggage, collusion with airport or airline staff, and using an unsuspecting dupe",
+      "c. Only through passenger luggage",
+      "d. Using a remote-controlled drone"
+    ],
+    "answer": "b. Infiltration into baggage, collusion with airport or airline staff, and using an unsuspecting dupe"
+  },
+  {
+    "question": "Which of the following is considered a critical area of an airport that, if sabotaged, can seriously impair its functioning?",
+    "options": [
+      "a. Parking garages",
+      "b. Retail shops",
+      "c. Navigational aids",
+      "d. Airport hotels"
+    ],
+    "answer": "c. Navigational aids"
+  },
+  {
+    "question": "What was the outcome of the August 2006 Heathrow Airport attack attempt?",
+    "options": [
+      "a. Increased security for checked baggage",
+      "b. Introduction of restrictions on carrying more than 100ml of liquid in cabin baggage",
+      "c. Ban on all hand luggage",
+      "d. Mandatory full-body searches for all passengers"
+    ],
+    "answer": "b. Introduction of restrictions on carrying more than 100ml of liquid in cabin baggage"
+  },
+  {
+    "question": "What security outcome resulted from the 2016 incident where a bomb was possibly hidden in a laptop and carried onto a plane by a person in a wheelchair?",
+    "options": [
+      "a. Better screening of wheelchairs",
+      "b. The 'Insider Threat' was taken more seriously",
+      "c. Ban on all electronic devices",
+      "d. Increased vigilance for passengers in wheelchairs"
+    ],
+    "answer": "b. The 'Insider Threat' was taken more seriously"
+  },
+  {
+    "question": "The coordinated nail bombings at Brussels Airport in March 2016 were carried out by two suicide bombers using what method?",
+    "options": [
+      "a. Explosives hidden in shoes",
+      "b. Explosives in large suitcases",
+      "c. Explosives concealed in jackets",
+      "d. Propane canisters in a vehicle"
+    ],
+    "answer": "b. Explosives in large suitcases"
+  },
+  {
+    "question": "What was the outcome of the 1976 hijacking of an Indian Airlines aircraft?",
+    "options": [
+      "a. The formation of the BCAS",
+      "b. The implementation of the Bomb Threat Contingency Plan",
+      "c. The formation of the Shri B.D. Pandey committee",
+      "d. The introduction of Dummy Checks"
+    ],
+    "answer": "c. The formation of the Shri B.D. Pandey committee"
+  },
+  {
+    "question": "What was a key outcome of the Air India aircraft (Kanishka Tragedy) sabotage in June 1985?",
+    "options": [
+      "a. The establishment of the DGCA",
+      "b. The formation of the Bureau of Civil Aviation Security (BCAS) as a regulatory authority",
+      "c. The implementation of strict liquid restrictions",
+      "d. The ban on international flights"
+    ],
+    "answer": "b. The formation of the Bureau of Civil Aviation Security (BCAS) as a regulatory authority"
+  },
+  {
+    "question": "What security measure was introduced after the TWA 840 bombing in April 1986?",
+    "options": [
+      "a. Enhanced security for aircraft catering",
+      "b. Improved aircraft security checks and security searches",
+      "c. New rules for cargo",
+      "d. The use of X-ray machines for all baggage"
+    ],
+    "answer": "b. Improved aircraft security checks and security searches"
+  },
+  {
+    "question": "What was the key outcome of the attempted sabotage of El Al Israeli Airlines flight 016 in 1986, where Anne Murphy was caught?",
+    "options": [
+      "a. Enhanced baggage screening",
+      "b. Emphasis on Profiling",
+      "c. Increased use of metal detectors",
+      "d. Introduction of new explosive detection technology"
+    ],
+    "answer": "b. Emphasis on Profiling"
+  },
+  {
+    "question": "What was the outcome of the Pan Am 103 incident (Lockerbie bombing) in December 1988?",
+    "options": [
+      "a. Increased security for cargo",
+      "b. The golden principle of \"No passenger no baggage and all bomb threat calls to be taken seriously\" was adopted",
+      "c. Enhanced security at airports in the USA only",
+      "d. The use of sky marshals on all flights"
+    ],
+    "answer": "b. The golden principle of \"No passenger no baggage and all bomb threat calls to be taken seriously\" was adopted"
+  },
+  {
+    "question": "What was the outcome of the hijacking of Indian Airlines flight IC-814 in December 1999?",
+    "options": [
+      "a. Introduction of stricter security for cockpit crew",
+      "b. Introduction of CISF as an Aviation Security Group (ASG) and secondary ladder point checks (SLPC)",
+      "c. The ban on all visitors' entry to airports",
+      "d. A review of security protocols at all international airports"
+    ],
+    "answer": "b. Introduction of CISF as an Aviation Security Group (ASG) and secondary ladder point checks (SLPC)"
+  },
+  {
+    "question": "What specific security measures were introduced after the attacks on September 11, 2001?",
+    "options": [
+      "a. A ban on all air travel",
+      "b. Strengthening and locking cockpit doors, and implementing strict pre-embarkation security checks",
+      "c. The introduction of bomb-sniffing dogs",
+      "d. A global ban on carrying any liquids"
+    ],
+    "answer": "b. Strengthening and locking cockpit doors, and implementing strict pre-embarkation security checks"
+  },
+  {
+    "question": "What was the outcome of the incident involving the \"Shoe Bomber,\" Richard Reid, in December 2001?",
+    "options": [
+      "a. A complete ban on footwear on planes",
+      "b. The prohibition of lighters and matchboxes on aircraft and the introduction of shoe scanning through XBIS",
+      "c. The requirement for passengers to board barefoot",
+      "d. Increased scrutiny of international travelers from Europe"
+    ],
+    "answer": "b. The prohibition of lighters and matchboxes on aircraft and the introduction of shoe scanning through XBIS"
+  }
+]

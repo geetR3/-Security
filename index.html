@@ -1,0 +1,27 @@
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="quiz-container">
+        <button class="start-btn">Start Quiz</button>
+        
+        <div class="quiz-content" style="display: none;">
+            <div class="question">Question will appear here</div>
+            <div class="options"></div>
+            <div class="controls">
+                <button class="back-btn">Back</button>
+                <button class="next-btn">Next</button>
+                <button class="submit-btn" style="display: none;">Submit</button>
+            </div>
+            <div class="result">Your score: <span id="score">0</span></div>
+            <button class="restart-btn" style="display: none;">Restart Quiz</button>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>

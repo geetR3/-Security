@@ -1,0 +1,224 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.quiz-container {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    width: 90%;
+    max-width: 600px;
+    padding: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    transition: transform 0.5s ease-in-out;
+}
+
+.quiz-container:hover {
+    transform: translateY(-5px);
+}
+
+.timer {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #e76f51;
+    margin-bottom: 20px;
+    border: 2px solid #e76f51;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: #ffe6d9;
+}
+
+.question {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: #4a4e69;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.option {
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    background-color: #f1f1f1;
+    color: #555;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    font-size: 1em;
+    text-align: left;
+}
+
+.option:hover {
+    background-color: #0077b6;
+    color: #fff;
+    transform: translateX(5px);
+}
+
+/* जब कोई ऑप्शन चुना जाता है */
+.option.selected {
+    background-color: #0077b6;
+    color: #fff;
+    border: 2px solid #004d7c;
+    transform: scale(1.02);
+}
+
+/* जब कोई ऑप्शन सही हो */
+.option.correct {
+    background-color: #4CAF50; /* हरा रंग */
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 128, 0, 0.2);
+    border: 2px solid #388E3C;
+}
+
+/* जब कोई ऑप्शन गलत हो */
+.option.incorrect {
+    background-color: #f44336; /* लाल रंग */
+    color: white;
+    box-shadow: 0 4px 8px rgba(255, 0, 0, 0.2);
+    border: 2px solid #D32F2F;
+}
+
+/* बटनों के लिए स्टाइल */
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.back-btn, .next-btn, .submit-btn, .restart-btn, .start-btn {
+    background-color: #0077b6;
+    color: #fff;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    font-weight: 600;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; /* बटनों को समान चौड़ाई देता है */
+    text-transform: uppercase;
+}
+
+.start-btn {
+    background-color: #4CAF50;
+    font-size: 1.5em;
+    padding: 15px 30px;
+}
+
+.start-btn:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+.back-btn {
+    background-color: #f4a261;
+}
+
+.back-btn:hover {
+    background-color: #e76f51;
+    transform: scale(1.05);
+}
+
+.next-btn:hover {
+    background-color: #004d7c;
+    transform: scale(1.05);
+}
+
+.submit-btn {
+    background-color: #2a9d8f;
+}
+
+.submit-btn:hover {
+    background-color: #264653;
+    transform: scale(1.05);
+}
+
+.restart-btn {
+    display: none;
+    background-color: #02c39a;
+}
+
+.restart-btn:hover {
+    background-color: #00a896;
+    transform: scale(1.05);
+}
+
+.result {
+    font-size: 2em;
+    color: #2a9d8f;
+    font-weight: 700;
+    margin-top: 20px;
+    display: none;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* एनिमेशन */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-correct {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.03); }
+    100% { transform: scale(1); }
+}
+
+@keyframes shake-incorrect {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+/* मीडिया क्वेरी */
+@media (max-width: 768px) {
+    .quiz-container {
+        padding: 20px;
+        border-radius: 15px;
+        width: 95%;
+    }
+
+    .question {
+        font-size: 1.2em;
+    }
+
+    .options {
+        gap: 10px;
+    }
+
+    .option {
+        padding: 12px;
+        font-size: 0.9em;
+    }
+    
+    .result {
+        font-size: 1.5em;
+    }
+    
+    .controls {
+        flex-direction: column;
+    }
+
+    .back-btn, .next-btn, .submit-btn, .start-btn {
+        width: 100%;
+    }
+}
