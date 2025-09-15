@@ -268,5 +268,66 @@
       "d. Increased scrutiny of international travelers from Europe"
     ],
     "answer": "b. The prohibition of lighters and matchboxes on aircraft and the introduction of shoe scanning through XBIS"
+  },
+  
+  {
+    "question": "Which of the following is NOT listed as a common means of infiltrating sabotage devices onto an aircraft?",
+    "options": [
+      "a. Infiltration with device into baggage",
+      "b. Collusion with airport or airline staff",
+      "c. Subterfuge, using an unsuspecting dupe",
+      "d. Direct purchase of a security clearance"
+    ],
+    "answer": "d. Direct purchase of a security clearance"
+  },
+  {
+    "question": "According to the notes, what was a key outcome following the Pan Am 103 incident in 1988?",
+    "options": [
+      "a. The introduction of body scanners",
+      "b. The establishment of the BCAS",
+      "c. The procedure for the carriage of mishandled baggage was introduced",
+      "d. The ban on visitors during high-alert situations"
+    ],
+    "answer": "c. The procedure for the carriage of mishandled baggage was introduced"
+  },
+  {
+    "question": "The Ataturk Airport terrorist attack in 2016, which involved shootings and suicide bombings, led to what significant security outcome?",
+    "options": [
+      "a. Enhanced cockpit door security",
+      "b. The introduction of profiling",
+      "c. Landside security became a standard",
+      "d. A ban on the carriage of lighters"
+    ],
+    "answer": "c. Landside security became a standard"
+  },
+  {
+    "question": "What was the \"Outcome\" of the Northwest Airlines Flight 253 incident in 2009?",
+    "options": [
+      "a. Restrictions on carrying liquid explosives",
+      "b. A focus on landside security using bollards",
+      "c. The introduction of body scanners",
+      "d. A ban on large baggage"
+    ],
+    "answer": "c. The introduction of body scanners"
+  },
+  {
+    "question": "Based on the provided notes, which of these is considered a critical area of an airport that is vital to its continued operation?",
+    "options": [
+      "a. Airport hotels",
+      "b. Cargo warehouses",
+      "c. Navigational aids",
+      "d. Restaurants"
+    ],
+    "answer": "c. Navigational aids"
+  },
+  {
+    "question": "The 9/11 attacks in 2001 led to several security measures. Which of the following was NOT an outcome listed in the provided notes?",
+    "options": [
+      "a. Strengthening of cockpit doors",
+      "b. The deployment of Sky Marshals",
+      "c. The introduction of pre-embarkation security checks",
+      "d. The establishment of the CISF as ASG"
+    ],
+    "answer": "d. The establishment of the CISF as ASG"
   }
 ]
