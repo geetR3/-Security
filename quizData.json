@@ -1,5 +1,697 @@
 [
   {
+    "question": "The Bureau of Civil Aviation Security (BCAS) was established as a result of which specific event in India's aviation history?",
+    "options": [
+      "a) The first hijacking in 1931.",
+      "b) The Kanishka sabotage in 1985.",
+      "c) The second hijacking in India in 1976.",
+      "d) The IC 814 hijacking in 1999."
+    ],
+    "answer": "c) The second hijacking in India in 1976."
+  },
+  {
+    "question": "Which historical event led directly to the implementation of new security measures for checked baggage and the introduction of a baggage makeup area?",
+    "options": [
+      "a) The Chennai explosion in 1984.",
+      "b) The TWA bombing in 1986.",
+      "c) The Kanishka sabotage in 1985.",
+      "d) The IC 814 hijacking in 1999."
+    ],
+    "answer": "c) The Kanishka sabotage in 1985."
+  },
+  {
+    "question": "What was the primary outcome of the 2006 (LHR) event concerning carry-on baggage?",
+    "options": [
+      "a) The requirement for bulletproof cockpit doors.",
+      "b) The deployment of Sky Marshals.",
+      "c) The restriction of liquids, aerosols, and gels (LAGs) to 100 mL.",
+      "d) The implementation of transit checks."
+    ],
+    "answer": "c) The restriction of liquids, aerosols, and gels (LAGs) to 100 mL."
+  },
+  {
+    "question": "The IC 814 hijacking in 1999 led to several key changes in Indian aviation security. Which of the following was NOT an outcome of this event?",
+    "options": [
+      "a) The introduction of Sky Marshals.",
+      "b) The deployment of the CISF.",
+      "c) The requirement for marking plastic explosives.",
+      "d) The introduction of the Secondary Ladder Point Check (SLPC)."
+    ],
+    "answer": "c) The requirement for marking plastic explosives."
+  },
+  {
+    "question": "Which of the following is an example of a 'Legislative' aviation security countermeasure as defined in the provided notes?",
+    "options": [
+      "a) X-ray Baggage Inspection System (X-BIS).",
+      "b) AEP (Aerodrome Entry Permit).",
+      "c) ICAO Annex-17.",
+      "d) The installation of bollards."
+    ],
+    "answer": "c) ICAO Annex-17."
+  },
+  {
+    "question": "Following the 9/11 attacks, a major security change was the implementation of a specific measure to protect flight crew. What was this measure?",
+    "options": [
+      "a) The introduction of Sky Marshals.",
+      "b) The strengthening and bulletproofing of cockpit doors.",
+      "c) Changes to carry-on baggage protocols.",
+      "d) The creation of the BCAS."
+    ],
+    "answer": "b) The strengthening and bulletproofing of cockpit doors."
+  },
+  {
+    "question": "Which airport was the first to receive CISF (Central Industrial Security Force) for security duties in the year 2000?",
+    "options": [
+      "a) Delhi Airport.",
+      "b) Mumbai Airport.",
+      "c) Jaipur Airport.",
+      "d) Chennai Airport."
+    ],
+    "answer": "c) Jaipur Airport."
+  },
+  {
+    "question": "The ICAO (International Civil Aviation Organization) document that specifically deals with aviation security (AVSEC) is known as:",
+    "options": [
+      "a) Annex-19.",
+      "b) Doc 8973.",
+      "c) Annex-17.",
+      "d) The B. P. Rule."
+    ],
+    "answer": "c) Annex-17."
+  },
+  {
+    "question": "The B.P. Rule, which was a direct outcome of the 1971 hijacking in India, can be most accurately described as a precursor to which modern-day aviation security principle?",
+    "options": [
+      "a) The establishment of a regulatory body like BCAS.",
+      "b) The implementation of strict security checks for checked baggage.",
+      "c) The requirement for hardened cockpit doors.",
+      "d) The introduction of an organized force for airport security."
+    ],
+    "answer": "a) The establishment of a regulatory body like BCAS."
+  },
+  {
+    "question": "Which of the following aviation security countermeasures is the best example of a 'Technical' measure?",
+    "options": [
+      "a) ICAO's SARP.",
+      "b) The deployment of Sky Marshals.",
+      "c) A Bomb Detection and Disposal Squad (BDDS).",
+      "d) An Explosive Vapour Detector (EVD)."
+    ],
+    "answer": "d) An Explosive Vapour Detector (EVD)."
+  },
+  {
+    "question": "The 1988 sabotage event involving the plastic explosive PAM-103 is a critical historical marker because it directly led to the development of:",
+    "options": [
+      "a) Under Vehicle Search Systems.",
+      "b) ETD / EVD technologies.",
+      "c) Global agreements on plastic explosive marking.",
+      "d) The first security measures for checked baggage."
+    ],
+    "answer": "c) Global agreements on plastic explosive marking."
+  },
+  {
+    "question": "Based on the provided data, which of the following years represents a significant peak in hijacking activity and is often cited as a benchmark for the scale of this specific threat?",
+    "options": [
+      "a) 1931.",
+      "b) 1971.",
+      "c) 1969.",
+      "d) 1985."
+    ],
+    "answer": "c) 1969."
+  },
+  {
+    "question": "In the context of aviation security, what is the fundamental difference between the roles of the Ministry of Civil Aviation's (MCA) two main bodies, DGCA and BCAS?",
+    "options": [
+      "a) DGCA regulates international flights, while BCAS regulates domestic flights.",
+      "b) DGCA is responsible for airworthiness, while BCAS handles baggage screening.",
+      "c) DGCA is the regulatory authority for safety, while BCAS is for security.",
+      "d) DGCA manages airport infrastructure, while BCAS handles personnel training."
+    ],
+    "answer": "c) DGCA is the regulatory authority for safety, while BCAS is for security."
+  },
+  {
+    "question": "The 2007 Glasgow Airport attack involving a Vehicle-borne IED (VBIED) led to a specific physical countermeasure. This measure falls under which of the three categories of countermeasures mentioned in the notes?",
+    "options": [
+      "a) Legislative.",
+      "b) Technical.",
+      "c) Physical.",
+      "d) Administrative."
+    ],
+    "answer": "c) Physical."
+  },
+  {
+    "question": "If a security official is required to inspect a vehicle entering the airport's restricted area for hidden explosives using a specialized mirror system, they would be using:",
+    "options": [
+      "a) DFMD.",
+      "b) HHMD.",
+      "c) UVSS.",
+      "d) X-BIS."
+    ],
+    "answer": "c) UVSS."
+  },
+  {
+    "question": "Which of the following is an example of an emerging threat that challenges traditional security perimeters, as defined in the notes?",
+    "options": [
+      "a) Sabotage of a cargo container.",
+      "b) A hijacking on the runway.",
+      "c) A Person-borne IED (PBIED).",
+      "d) An armed attack on an air traffic control tower."
+    ],
+    "answer": "c) A Person-borne IED (PBIED)."
+  },
+  {
+    "question": "Out of the 19 Annexes of the ICAO, which one is specifically related to Aviation Security (AVSEC), and what is the broader document it is a part of?",
+    "options": [
+      "a) Annex-1, Doc 8973",
+      "b) Annex-17, SARP",
+      "c) Annex-19, NCASODCP",
+      "d) Annex-17, BTCP"
+    ],
+    "answer": "b) Annex-17, SARP"
+  },
+  {
+    "question": "The Chennai explosion in 1984 gave rise to which type of security plan, and under which category of aviation security threats is this event classified?",
+    "options": [
+      "a) B. P. Pandey Committee, Hijacking",
+      "b) BTCP (Bomb Threat Control Plan), Sabotage",
+      "c) SLPC (Secondary Ladder Point Check), Armed Attacks",
+      "d) BDDS (Bomb Detection and Disposal Squad), VBIED"
+    ],
+    "answer": "b) BTCP (Bomb Threat Control Plan), Sabotage"
+  },
+  {
+    "question": "What is the main functional difference between an Aerodrome Entry Permit (AEP) and an Airside Drivers Permit (APP) in the context of civil aviation security?",
+    "options": [
+      "a) The AEP is for general entry into the airport, while the APP is only for VIP personnel.",
+      "b) The AEP is for entry into any part of the airport, while the APP is for driving on the airside.",
+      "c) The AEP is only for terminal security personnel, while the APP is for all airport staff.",
+      "d) The AEP is for vehicles, while the APP is for individuals."
+    ],
+    "answer": "b) The AEP is for entry into any part of the airport, while the APP is for driving on the airside."
+  },
+  {
+    "question": "As a result of the IC 814 hijacking, a new security check procedure was introduced that involved a final check of passengers just before boarding the aircraft. What is this procedure known as?",
+    "options": [
+      "a) Secondary Ladder Point Check (SLPC).",
+      "b) Under Vehicle Search System (UVSS).",
+      "c) Explosive Trace Detector (ETD).",
+      "d) Hand Held Metal Detector (HHMD)."
+    ],
+    "answer": "a) Secondary Ladder Point Check (SLPC)."
+  },
+  {
+    "question": "Under the Ministry of Civil Aviation (MCA), who is the regulatory authority for security, and when was the Bomb Detection and Disposal Squad (BDDS) formed?",
+    "options": [
+      "a) DGCA, May 1, 1987",
+      "b) BCAS, April 1, 1987",
+      "c) BCAS, May 1, 1987",
+      "d) DGCA, April 1, 1987"
+    ],
+    "answer": "c) BCAS, May 1, 1987"
+  },
+  {
+    "question": "Identify the event that led to enhanced aircraft security checks and searches, a crucial step in tightening access control to aircraft before the 9/11 incident.",
+    "options": [
+      "a) The 1985 Kanishka sabotage",
+      "b) The 1986 TWA bombing",
+      "c) The 1987 Korean Air bombing",
+      "d) The 1999 IC 814 hijacking"
+    ],
+    "answer": "b) The 1986 TWA bombing"
+  },
+  {
+    "question": "Which of the following areas of an airport is specifically listed as a \"Vulnerable Area,\" requiring additional security measures?",
+    "options": [
+      "a) Terminal Building",
+      "b) Check-in Counter",
+      "c) Air Traffic Control (ATC)",
+      "d) Parking Area"
+    ],
+    "answer": "c) Air Traffic Control (ATC)"
+  },
+  {
+    "question": "What was the primary outcome of the 1987 Korean Air bombing, and what type of security procedure was a significant milestone in its implementation?",
+    "options": [
+      "a) The use of Hand Held Metal Detectors (HHMD) for passengers.",
+      "b) The inspection of passengers and their baggage on transit flights (Transit Checks).",
+      "c) The checking of vehicles at the airport entry gate.",
+      "d) Restrictions on liquids, aerosols, and gels (LAGs)."
+    ],
+    "answer": "b) The inspection of passengers and their baggage on transit flights (Transit Checks)."
+  },
+  {
+    "question": "Which of the following events directly led to the deployment of the CISF (Central Industrial Security Force) and the introduction of the Secondary Ladder Point Check (SLPC)?",
+    "options": [
+      "a) The 1984 Chennai explosion.",
+      "b) The 1985 Kanishka sabotage.",
+      "c) The 1999 IC 814 hijacking.",
+      "d) The 2001 9/11 attacks."
+    ],
+    "answer": "c) The 1999 IC 814 hijacking."
+  },
+  {
+    "question": "If a security officer is using a UVSS to inspect a vehicle, what kind of threat are they attempting to detect?",
+    "options": [
+      "a) An explosive hidden inside the aircraft.",
+      "b) A metallic weapon hidden in the passenger's luggage.",
+      "c) An explosive device hidden in the undercarriage of the vehicle.",
+      "d) A weapon hidden in the airport terminal."
+    ],
+    "answer": "c) An explosive device hidden in the undercarriage of the vehicle."
+  },
+  {
+    "question": "What is the primary objective of organizations like ICAO, BCAS, and MCA in the aviation industry?",
+    "options": [
+      "a) Only the maintenance and airworthiness of aircraft.",
+      "b) Only providing emergency medical services for passengers.",
+      "c) The regulation and implementation of aviation security and security programs.",
+      "d) The construction and renovation of airports."
+    ],
+    "answer": "c) The regulation and implementation of aviation security and security programs."
+  },
+  
+  {
+    "question": "When was the 'Chicago Convention' established?",
+    "options": [
+      "A) 1944",
+      "B) 1947",
+      "C) 1963",
+      "D) 1970"
+    ],
+    "answer": "A) 1944"
+  },
+  {
+    "question": "Where is the headquarters of the International Civil Aviation Organization (ICAO) located?",
+    "options": [
+      "A) Delhi",
+      "B) Paris",
+      "C) Montreal",
+      "D) New York"
+    ],
+    "answer": "C) Montreal"
+  },
+  {
+    "question": "Which ICAO Annex is related to 'Aviation Security'?",
+    "options": [
+      "A) Annex 18",
+      "B) Annex 19",
+      "C) Annex 17",
+      "D) Annex 15"
+    ],
+    "answer": "C) Annex 17"
+  },
+  {
+    "question": "The 'Tokyo Convention' focuses on which subject?",
+    "options": [
+      "A) The marking of plastic explosives",
+      "B) Sabotage of aircraft",
+      "C) Unlawful acts on board an aircraft",
+      "D) Violence at airports"
+    ],
+    "answer": "C) Unlawful acts on board an aircraft"
+  },
+  {
+    "question": "What is the full form of BCAS?",
+    "options": [
+      "A) Bureau of Civil Aviation Security",
+      "B) Board of Civil Aviation System",
+      "C) Basic Civil Aviation Service",
+      "D) Bureau of Control and Aviation System"
+    ],
+    "answer": "A) Bureau of Civil Aviation Security"
+  },
+  {
+    "question": "What is the main difference between the 'Hague Convention' and the 'Montreal Convention'?",
+    "options": [
+      "A) The Hague Convention focuses on hijacking, while Montreal focuses on the sabotage of aircraft.",
+      "B) The Hague Convention was in 1971, while Montreal was in 1970.",
+      "C) The Hague Convention applies only to passengers, while Montreal applies to the crew.",
+      "D) The Hague Convention includes plastic explosives, while Montreal does not."
+    ],
+    "answer": "A) The Hague Convention focuses on hijacking, while Montreal focuses on the sabotage of aircraft."
+  },
+  {
+    "question": "What is included in the 'Airside' area of an airport?",
+    "options": [
+      "A) Public waiting area and check-in counters.",
+      "B) The runway, taxiways, and apron.",
+      "C) The baggage sorting area and security check area.",
+      "D) Only the security restricted area."
+    ],
+    "answer": "B) The runway, taxiways, and apron."
+  },
+  {
+    "question": "The 'Beijing Protocol (2010)' serves as a supplement to which convention and covers what type of offenses?",
+    "options": [
+      "A) Tokyo Convention; addresses unlawful acts on board.",
+      "B) Hague Convention; includes new hijack-related offenses.",
+      "C) Montreal Convention; covers sabotage on aircraft.",
+      "D) Chicago Convention; established the International Civil Aviation Organization."
+    ],
+    "answer": "B) Hague Convention; includes new hijack-related offenses."
+  },
+  {
+    "question": "Regarding the 1999 IC 814 aircraft hijacking, which of the following is the correct sequence of destinations?",
+    "options": [
+      "A) Amritsar, Lahore, Dubai, Kandahar.",
+      "B) Lahore, Amritsar, Dubai, Kandahar.",
+      "C) Amritsar, Dubai, Lahore, Kandahar.",
+      "D) Lahore, Dubai, Amritsar, Kandahar."
+    ],
+    "answer": "A) Amritsar, Lahore, Dubai, Kandahar."
+  },
+  {
+    "question": "Who is a 'DEPO' passenger?",
+    "options": [
+      "A) A passenger who has not followed the rules.",
+      "B) A passenger with a cancelled passport.",
+      "C) A passenger with no legal right to enter a country.",
+      "D) A passenger who is unfit to travel on a flight."
+    ],
+    "answer": "B) A passenger with a cancelled passport."
+  },
+  {
+    "question": "How many annexes are there to the Chicago Convention of 1944?",
+    "options": [
+      "A) 17",
+      "B) 19",
+      "C) 193",
+      "D) 18"
+    ],
+    "answer": "B) 19"
+  },
+  {
+    "question": "What is the primary focus of the 'Montreal Protocol (1988)'?",
+    "options": [
+      "A) Unlawful seizure of aircraft",
+      "B) Hijack-related offenses",
+      "C) Violence at airports",
+      "D) Sabotage of aircraft"
+    ],
+    "answer": "C) Violence at airports"
+  },
+  {
+    "question": "Which term describes the public area of an airport?",
+    "options": [
+      "A) Airside",
+      "B) Landside",
+      "C) Security Restricted Area",
+      "D) Baggage Sorting Area"
+    ],
+    "answer": "B) Landside"
+  },
+  {
+    "question": "What is the purpose of the 'MAR Convention (1991)'?",
+    "options": [
+      "A) To address unlawful acts on board",
+      "B) To deal with the marking of plastic explosives",
+      "C) To counter terrorism at airports",
+      "D) To establish the ICAO"
+    ],
+    "answer": "B) To deal with the marking of plastic explosives"
+  },
+  {
+    "question": "A passenger with a cancelled passport who must be sent back to their country of origin is known as a(n):",
+    "options": [
+      "A) Unruly Passenger",
+      "B) INAD",
+      "C) DEPO",
+      "D) IFSO"
+    ],
+    "answer": "C) DEPO"
+  },
+  {
+    "question": "What is the main difference between an Airport Entry Permit (AEP) and a Temporary Airport Entry Pass (TAEP)?",
+    "options": [
+      "A) An AEP is for visitors, while a TAEP is for staff.",
+      "B) An AEP is valid for up to 30 days, while a TAEP is valid for a maximum of 30 days in a year.",
+      "C) An AEP is for vehicles, while a TAEP is for people.",
+      "D) Both passes are issued by DG BCAS."
+    ],
+    "answer": "B) An AEP is valid for up to 30 days, while a TAEP is valid for a maximum of 30 days in a year."
+  },
+  {
+    "question": "According to the data, which security officer is responsible for profiling passengers based on behavior, documents, and physical appearance?",
+    "options": [
+      "A) DG BCAS",
+      "B) CSO",
+      "C) IFSO",
+      "D) MP"
+    ],
+    "answer": "C) IFSO"
+  },
+  {
+    "question": "The IC 814 hijacking ended in which city, where the aircraft stayed for two days?",
+    "options": [
+      "A) Lahore",
+      "B) Dubai",
+      "C) Amritsar",
+      "D) Kandahar"
+    ],
+    "answer": "D) Kandahar"
+  },
+  {
+    "question": "Which ICAO manual is known as the aviation security manual?",
+    "options": [
+      "A) DOC 8973",
+      "B) Annex 17",
+      "C) SAPP",
+      "D) ERM"
+    ],
+    "answer": "A) DOC 8973"
+  },
+  {
+    "question": "What does 'Inop' stand for in airport terminology?",
+    "options": [
+      "A) Inoperative",
+      "B) In-Flight Officer",
+      "C) International Operation",
+      "D) Internal Protocol"
+    ],
+    "answer": "A) Inoperative"
+  },
+  {
+    "question": "Which convention established the International Civil Aviation Organization (ICAO)?",
+    "options": [
+      "A) Tokyo Convention",
+      "B) Hague Convention",
+      "C) Montreal Convention",
+      "D) Chicago Convention"
+    ],
+    "answer": "D) Chicago Convention"
+  },
+  {
+    "question": "What is the minimum duration for which a Temporary Airport Entry Pass (TAEP) is issued?",
+    "options": [
+      "A) 1 day",
+      "B) 7 days",
+      "C) 15 days",
+      "D) 30 days"
+    ],
+    "answer": "A) 1 day"
+  },
+  {
+    "question": "Which type of explosive is classified as a 'high explosive' in the data?",
+    "options": [
+      "A) Firecrackers",
+      "B) Ammunition",
+      "C) Detonator",
+      "D) Sendex"
+    ],
+    "answer": "D) Sendex"
+  },
+  {
+    "question": "A passenger with no legal right to enter a country is known as a(n):",
+    "options": [
+      "A) Unruly Passenger",
+      "B) DEPO",
+      "C) INAD",
+      "D) IFSO"
+    ],
+    "answer": "C) INAD"
+  },
+  {
+    "question": "The IC 814 hijacking, which began on December 24, 1999, originated in which city?",
+    "options": [
+      "A) Lahore",
+      "B) Dubai",
+      "C) Amritsar",
+      "D) Kandahar"
+    ],
+    "answer": "C) Amritsar"
+  },
+  {
+    "question": "Which of the following is an example of a legislative counter-measure, as described in the provided text?",
+    "options": [
+      "A) Anti-hijacking measures",
+      "B) Conventions",
+      "C) Physical security",
+      "D) Human patrols"
+    ],
+    "answer": "B) Conventions"
+  },
+  {
+    "question": "What does SAPP stand for in the context of ICAO?",
+    "options": [
+      "A) Security and Personnel Procedures",
+      "B) Standard and Recommended Practice",
+      "C) Safety and Aviation Program Protocol",
+      "D) Secure Airport Procedures and Policy"
+    ],
+    "answer": "B) Standard and Recommended Practice"
+  },
+  {
+    "question": "What is the full name of the ICAO's aviation security manual?",
+    "options": [
+      "A) ICAO SEC Manual DOC 8973",
+      "B) ICAO DOC 8973",
+      "C) ICAO Aviation Security",
+      "D) ICAO Annex 17"
+    ],
+    "answer": "A) ICAO SEC Manual DOC 8973"
+  },
+  {
+    "question": "Which of the following best describes the term 'Embarkation/Disembarkation'?",
+    "options": [
+      "A) Boarding and leaving an aircraft",
+      "B) Landing and taking off",
+      "C) Baggage check-in and collection",
+      "D) Security check and passport control"
+    ],
+    "answer": "A) Boarding and leaving an aircraft"
+  },
+  {
+    "question": "Which organization is responsible for preparing the National Civil Aviation Security Program (NCASP)?",
+    "options": [
+      "A) DG BCAS",
+      "B) ICAO",
+      "C) CSO",
+      "D) IFSO"
+    ],
+    "answer": "C) CSO"
+  },
+  {
+    "question": "According to the data, a Kirpan is a type of:",
+    "options": [
+      "A) Prohibited article",
+      "B) Sharp object",
+      "C) Restricted article",
+      "D) All of the above"
+    ],
+    "answer": "B) Sharp object"
+  },
+  {
+    "question": "Which of the following is NOT one of the three main components of an Improvised Explosive Device (IED), as mentioned in the text?",
+    "options": [
+      "A) Explosives",
+      "B) Detonator",
+      "C) Anti-handling mechanism",
+      "D) Power source"
+    ],
+    "answer": "D) Power source"
+  },
+  {
+    "question": "What is the purpose of a Refusal Room?",
+    "options": [
+      "A) A dedicated room for unruly passengers.",
+      "B) A holding area for baggage that has been denied boarding.",
+      "C) A dedicated room for deportees.",
+      "D) A room for passengers who have been denied entry by immigration."
+    ],
+    "answer": "C) A dedicated room for deportees."
+  },
+  {
+    "question": "The Hague Convention was last amended to include hijack-related offenses in what year?",
+    "options": [
+      "A) 1970",
+      "B) 1991",
+      "C) 2010",
+      "D) 2018"
+    ],
+    "answer": "D) 2018"
+  },
+  {
+    "question": "In aviation security, what does the term 'Vulnerable' mean when used to describe an airport?",
+    "options": [
+      "A) An airport that is frequently targeted by threats.",
+      "B) An airport that is unprotected.",
+      "C) An airport with a high volume of passengers.",
+      "D) An airport with a single runway."
+    ],
+    "answer": "B) An airport that is unprotected."
+  },
+  {
+    "question": "What is the full form of ERM in the context of aviation security?",
+    "options": [
+      "A) Emergency Response Manual",
+      "B) Explosives Reaction Mechanism",
+      "C) Emergency Routing Map",
+      "D) European Response Management"
+    ],
+    "answer": "A) Emergency Response Manual"
+  },
+  {
+    "question": "Which area of an airport has controlled access for people and vehicles?",
+    "options": [
+      "A) Airside",
+      "B) Landside",
+      "C) Security Hold Area (SHA)",
+      "D) Security Restricted Area (SRA)"
+    ],
+    "answer": "D) Security Restricted Area (SRA)"
+  },
+    {
+    "question": "Who is an Unruly Passenger?",
+    "options": [
+      "A) A passenger with no legal right to enter a country.",
+      "B) A passenger who disobeys instructions.",
+      "C) A passenger with a cancelled passport.",
+      "D) A passenger carrying prohibited items."
+    ],
+    "answer": "B) A passenger who disobeys instructions."
+  },
+  {
+    "question": "According to the data, which of the following is NOT an emergency plan?",
+    "options": [
+      "A) Bomb Threat Contingency Plan (BTCP)",
+      "B) Emergency Response Manual (ERM)",
+      "C) Counter Terrorism Contingency Plan (CTCP)",
+      "D) Aircraft Hijack Contingency Plan (AHCP)"
+    ],
+    "answer": "B) Emergency Response Manual (ERM)"
+  },
+  {
+    "question": "The National Civil Aviation Security Program (NCASP) is prepared by the CSO. Who approves it?",
+    "options": [
+      "A) DG BCAS",
+      "B) ICAO",
+      "C) The Airport Operator",
+      "D) The Ministry of Civil Aviation"
+    ],
+    "answer": "A) DG BCAS"
+  },
+  {
+    "question": "The IC 814 hijacking was carried out by which three hijackers?",
+    "options": [
+      "A) Omar Sheikh, Mushtaq Ahmad Zafar, and Masqud Ahaz.",
+      "B) Osama bin Laden, Omar Sheikh, and Masqud Ahaz.",
+      "C) Mushtaq Ahmad Zafar, Omar Sheikh, and Dawood Ibrahim.",
+      "D) Masqud Ahaz, Omar Sheikh, and Lakhvi."
+    ],
+    "answer": "A) Omar Sheikh, Mushtaq Ahmad Zafar, and Masqud Ahaz."
+  },
+  {
+    "question": "According to the data, what is a Vital aerodrome?",
+    "options": [
+      "A) An airport that is currently inoperative.",
+      "B) An airport that is critical for national security.",
+      "C) An airport that has been designated as vital for humanitarian aid.",
+      "D) The data does not provide a definition for this term."
+    ],
+    "answer": "A) An airport that is currently inoperative."
+  },
+  
+  {
     "question": "What are the most common types of sabotage devices used against aircraft?",
     "options": [
       "a. Incendiary devices",
@@ -268,66 +960,5 @@
       "d. Increased scrutiny of international travelers from Europe"
     ],
     "answer": "b. The prohibition of lighters and matchboxes on aircraft and the introduction of shoe scanning through XBIS"
-  },
-  
-  {
-    "question": "Which of the following is NOT listed as a common means of infiltrating sabotage devices onto an aircraft?",
-    "options": [
-      "a. Infiltration with device into baggage",
-      "b. Collusion with airport or airline staff",
-      "c. Subterfuge, using an unsuspecting dupe",
-      "d. Direct purchase of a security clearance"
-    ],
-    "answer": "d. Direct purchase of a security clearance"
-  },
-  {
-    "question": "According to the notes, what was a key outcome following the Pan Am 103 incident in 1988?",
-    "options": [
-      "a. The introduction of body scanners",
-      "b. The establishment of the BCAS",
-      "c. The procedure for the carriage of mishandled baggage was introduced",
-      "d. The ban on visitors during high-alert situations"
-    ],
-    "answer": "c. The procedure for the carriage of mishandled baggage was introduced"
-  },
-  {
-    "question": "The Ataturk Airport terrorist attack in 2016, which involved shootings and suicide bombings, led to what significant security outcome?",
-    "options": [
-      "a. Enhanced cockpit door security",
-      "b. The introduction of profiling",
-      "c. Landside security became a standard",
-      "d. A ban on the carriage of lighters"
-    ],
-    "answer": "c. Landside security became a standard"
-  },
-  {
-    "question": "What was the \"Outcome\" of the Northwest Airlines Flight 253 incident in 2009?",
-    "options": [
-      "a. Restrictions on carrying liquid explosives",
-      "b. A focus on landside security using bollards",
-      "c. The introduction of body scanners",
-      "d. A ban on large baggage"
-    ],
-    "answer": "c. The introduction of body scanners"
-  },
-  {
-    "question": "Based on the provided notes, which of these is considered a critical area of an airport that is vital to its continued operation?",
-    "options": [
-      "a. Airport hotels",
-      "b. Cargo warehouses",
-      "c. Navigational aids",
-      "d. Restaurants"
-    ],
-    "answer": "c. Navigational aids"
-  },
-  {
-    "question": "The 9/11 attacks in 2001 led to several security measures. Which of the following was NOT an outcome listed in the provided notes?",
-    "options": [
-      "a. Strengthening of cockpit doors",
-      "b. The deployment of Sky Marshals",
-      "c. The introduction of pre-embarkation security checks",
-      "d. The establishment of the CISF as ASG"
-    ],
-    "answer": "d. The establishment of the CISF as ASG"
   }
 ]
